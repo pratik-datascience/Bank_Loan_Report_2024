@@ -82,7 +82,6 @@ Loan Metrics by Home Ownership
 
 - Dashboard Interaction <a href="https://github.com/pratik-datascience/Bank_Loan_Report_2024/blob/main/BANK%20LOAN%20DATA.xlsx">View Dashboard</a>
 
-:
 
 🔄 Project Workflow
 
