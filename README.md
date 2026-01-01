@@ -7,7 +7,7 @@ The objective of this project is to analyze and visualize bank loan data to moni
 ## Dataset Used
 - <a href="https://github.com/pratik-datascience/Bank_Loan_Report_2024/blob/main/BANK%20LOAN%20DATA.xlsx">Dataset</a>
 
-##📊 Key Performance Indicators (KPIs)
+## 📊 Key Performance Indicators (KPIs)
 🔹 Lending Performance KPIs
 
 Total Loan Applications – Total number of loan applications received during the selected period.
