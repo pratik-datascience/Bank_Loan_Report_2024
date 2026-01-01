@@ -11,19 +11,45 @@ The objective of this project is to analyze and visualize bank loan data to moni
 🔹 Lending Performance KPIs
 
 Total Loan Applications – Total number of loan applications received during the selected period.
-
 MTD Loan Applications – Loan applications received from the beginning of the current month.
-
-MoM Loan Application Growth (%) – Month-over-Month change in loan application volume.
-
+PMTD Loan Applications – Loan applications received from the start of the previous month up to the same date.
 Total Funded Amount – Total loan amount disbursed to borrowers.
-
 MTD Funded Amount – Loan amount disbursed in the current month.
-
-MoM Funded Amount Growth (%) – Month-over-Month change in disbursed loan amounts.
-
+PMTD Funded Amount – Loan amount disbursed in the previous month up to the same date.
 Total Amount Received – Total repayments collected from borrowers.
-
+PMTD Amount Received – Repayments collected in the previous month up to the same date.
 MTD Amount Received – Repayments collected in the current month.
 
-MoM Amount Received Growth (%) – Month-over-Month change in repayments.
+🔹 Risk & Profitability KPIs
+
+Average Interest Rate – Average interest rate across all loans.
+MTD Average Interest Rate – Average interest rate for loans issued in the current month.
+PMTD Average Interest Rate – Average interest rate for loans issued in the previous month up to the same date.
+MoM Interest Rate Change (%) – Month-over-Month change in average interest rate.
+Average Debt-to-Income (DTI) Ratio – Measures borrower repayment capacity.
+MTD Average DTI – Average DTI for loans issued in the current month
+PMTD Average DTI – Average DTI for loans issued in the previous month up to the same date.
+MoM DTI Change (%) – Month-over-Month variation in borrower DTI.
+
+🔹 Good Loan vs Bad Loan KPIs
+
+Good Loans (Status: Fully Paid, Current)
+Good Loan Application Percentage
+Good Loan Applications
+Good Loan Funded Amount
+Good Loan Amount Received
+Bad Loans (Status: Charged Off)
+Bad Loan Application Percentage
+Bad Loan Applications
+Bad Loan Funded Amount
+Bad Loan Amount Received
+
+🔹 Monthly Trends – Applications, Funded Amount, Amount Received
+
+State-wise Loan Distribution
+Loan Metrics by Term
+Loan Metrics by Employment Length
+Loan Metrics by Loan Purpose
+Loan Metrics by Home Ownership
+
+- Dashboard Interaction <a href="
